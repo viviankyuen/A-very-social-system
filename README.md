@@ -1,6 +1,6 @@
 # A-very-social-system
 By: Marc Biemer* and Vivian Yuen*
-All authors contributed equally to this research project.
+*All authors contributed equally to this research project.
 
 Can interactions in a digital environment result in physical interactions in the real world? 
 
